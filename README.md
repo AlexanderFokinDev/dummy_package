@@ -2,6 +2,8 @@
 
 The macros in the repository will allow you to transform the real data from the original table into a table with dummy data.
 
+![scheme](docs/dummy.png)
+
 ### Example 1:
 
 You should create a sql model with any name:
